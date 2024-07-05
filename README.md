@@ -1,2 +1,5 @@
 # Event-Handling-in-React
-Created with CodeSandbox
+Renders button event handling in ReactJS
+
+# Technologies
+HTML, CSS, JavaScript, ReactJS.
